@@ -1,3 +1,15 @@
+# To-Do List MVC
+
+Nessa aula vamos aprender sobre como funciona na prática a arquitetura MVC de uma forma simplificada utilizando TypeScript e MongoDB.
+
+## O que você irá aprender
+
+- Arquitetura MVC
+  - Models
+  - Views
+  - Controller
+  - Como utilizar na prática
+
 ## Instalação
 
 Clone o projeto na sua máquina utilizando o `git clone`.
@@ -23,3 +35,7 @@ Depois execute o script para rodar o projeto
 ```bash
     npm start
 ```
+
+## Autor
+
+- [@elemarleonel](https://github.com/ElemarLeonel/)
